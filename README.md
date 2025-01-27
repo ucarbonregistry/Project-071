@@ -33,6 +33,9 @@ The project activity is a renewable power generation activity that incorporates 
 operation of two hydro turbines, having aggregated installed capacity of 3 MW in the district Kullu of 
 the state of Himachal Pradesh in India. This project has been promoted by M/S Continental Intra-Tech 
 Pvt. Ltd. This project activity is also called as Haripur Nallah Small Hydro Electric Power Project.
+
+The Hydro Electric Turbines were commissioned by the Himachal Pradesh State Electricity Board
+(HPSEB), Government of Himachal Pradesh, India. Unit-I was commissioned on 29/07/2017 and UnitII was commissioned on 05/09/2022. In this crediting period, the generation of Unit-I is taken into consideration.
 _____________
 Sr. No./ Turbine/ Installed Capacity/ Commissioning Date
 ____________
